@@ -1,0 +1,171 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/06/26/13/062613231a04bcea7bdbe83a8ad1c63c.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h3{
+
+    width:auto;
+    height:50px;
+    text-decoration:inherit;
+    color:red;
+    animation:header 5s  linear infinite;    
+}
+@keyframes header{
+    0%{opacity:0.5;color:green;}
+    20%{opacity:0.7;color:black;}
+    40%{opacity:0.8;color:palevioletred;}
+    60%{opacity:0.10;color:maroon;}
+    80%{opacity:0.9;color:darkred;}
+    100%{opacity:0.6;color:darkslateblue;}
+}
+.shape{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://images.meesho.com/images/products/67860715/t3or0_512.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages 5s infinite alternate;
+}
+@keyframes changingimages{
+    25%{background-image: url("https://i.pinimg.com/474x/4b/95/7a/4b957a61e0892961b0ac8dd03ad97d71.jpg");left:50px;top:20px;}
+    50%{background-image: url("https://5.imimg.com/data5/ND/TT/EA/SELLER-93048433/western-wear-top.jpeg");left:30px;top:40px;}
+    75%{background-image: url("https://www.wholesaletextile.in/product-img/Blue-Hills-Sofia-Latest-Wester-1683971595.jpeg");left:60px;top:10px;}
+    
+}
+.shape1{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://i.pinimg.com/originals/aa/5f/7e/aa5f7eda5d7721719438ef97b11ad30d.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages1 5s infinite alternate;
+}
+@keyframes changingimages1{
+    25%{background-image: url("https://i.pinimg.com/originals/aa/5f/7e/aa5f7eda5d7721719438ef97b11ad30d.jpg");left:50px;top:20px;}
+    50%{background-image: url("https://i.pinimg.com/236x/2e/4b/8d/2e4b8d493b95ac930e45664efa1a9461.jpg");left:30px;top:40px;}
+    75%{background-image: url("https://assets.ajio.com/medias/sys_master/root/20230623/S9q4/6494dcad42f9e729d780d6c6/-1117Wx1400H-464498909-orange-MODEL.jpg");left:60px;top:10px;}
+    
+}
+.shape2{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://www.shutterstock.com/image-photo/fashion-woman-attractive-yellow-girl-260nw-2341499943.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages2 5s infinite alternate;
+}
+@keyframes changingimages2{
+    25%{background-image: url("https://www.shutterstock.com/image-photo/fashion-woman-attractive-yellow-girl-260nw-2341499943.jpg");left:50px;top:20px;}
+    50%{background-image: url("https://www.stylecraze.com/wp-content/uploads/2018/01/50-Fashion-Tips-Every-Girl-Should-Know.jpg");left:30px;top:40px;}
+    75%{background-image: url("https://static.vecteezy.com/system/resources/thumbnails/024/903/858/small/beautiful-women-in-fashionable-clothing-exude-elegance-generated-by-ai-free-photo.jpg");left:60px;top:10px;}
+    
+}
+.shape3{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://3.imimg.com/data3/KM/OA/MY-19006716/fancy-ladies-footwear.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages3 5s infinite alternate;
+}
+@keyframes changingimages3{
+    25%{background-image: url("https://3.imimg.com/data3/KM/OA/MY-19006716/fancy-ladies-footwear.jpg");left:50px;top:20px;}
+    50%{background-image: url("https://m.media-amazon.com/images/I/811kU-P5PCL._AC_UY1000_.jpg");left:30px;top:40px;}
+    75%{background-image: url("https://images.hindustantimes.com/img/2022/12/22/1600x900/istockphoto-1279108197-170667a_1671687926903_1671687937504_1671687937504.jpg");left:60px;top:10px;}
+    
+}
+.shape4{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRhP-o5qu9FOF1gcezIlqdI7m1e6_93JbOKsslkLvFA3yuXEWYA7Vb8B4mDFmfYjRL4L_k8m5dzETjNcUYgq8UBoax5JHGTm8xlC6QS6Bc0R7oGyll_5xu6QJ4");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages4 5s infinite alternate;
+}
+@keyframes changingimages4{
+    25%{background-image: url("https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRhP-o5qu9FOF1gcezIlqdI7m1e6_93JbOKsslkLvFA3yuXEWYA7Vb8B4mDFmfYjRL4L_k8m5dzETjNcUYgq8UBoax5JHGTm8xlC6QS6Bc0R7oGyll_5xu6QJ4");left:50px;top:20px;}
+    50%{background-image: url("https://images.ctfassets.net/66mrrren2unf/78Wz0KV0F1veU2GdC1g1jp/e838ecd547ebcf8e5d731a05027eefa4/web.gif?q=40");left:30px;top:40px;}
+    75%{background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgOkXV7WbXjS2MDqgDqgNx7cgNp-iBCXTuqP77aoz0nKF09-DoOU-GMLUa2VdS5Ig4NPg&usqp=CAU");left:60px;top:10px;}
+    
+}
+.shape5{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://images.bestsellerclothing.in/data/selected/10-jan-2024/157578705_1.jpg?width=520&height=650&mode=fill&fill=blur&format=auto");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages5 5s infinite alternate;
+}
+@keyframes changingimages5{
+    25%{background-image: url("https://images.bestsellerclothing.in/data/selected/10-jan-2024/157578705_1.jpg?width=520&height=650&mode=fill&fill=blur&format=auto");left:50px;top:20px;}
+    50%{background-image: url("https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTQLeofuXmOqKyFnFjggY1BMIeN4C9Cftl97ou_Ta57fIksA-CRDq3imnBbJBUFzQ1Z-JyS3hXDVZyLmxnuMDCcnvLoEOEttghy-VpgkDQ");left:30px;top:40px;}
+    75%{background-image: url("https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ2KeXAKrk0T0mlKuSiviSH5tBI1MXzU2WA5Bf7pvY8XOJjQjQrsTpE3xusF2nglqjKiNgtYOe6UVR35h-npZu0Es6ppJV5PQ");left:60px;top:10px;}
+    
+}
+.shape6{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://5.imimg.com/data5/TG/DN/MY-37294786/designer-artificial-jewellery.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages6 5s infinite alternate;
+}
+@keyframes changingimages6{
+    25%{background-image: url("https://5.imimg.com/data5/TG/DN/MY-37294786/designer-artificial-jewellery.jpg");left:50px;top:20px;}
+    50%{background-image: url("https://m.media-amazon.com/images/I/81aUa3LrDzL._AC_UY1100_.jpg");left:30px;top:40px;}
+    75%{background-image: url("https://www.orra.co.in/media/catalog/product/cache/a062e776095ada03f265202079309f18/o/s/osn17032_1.jpg");left:60px;top:10px;}
+    
+}
+.shape7{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://m.media-amazon.com/images/I/51bTrIelgmL._SX300_SY300_QL70_FMwebp_.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages7 5s infinite alternate;
+}
+@keyframes changingimages7{
+    25%{background-image: url("https://m.media-amazon.com/images/I/51bTrIelgmL._SX300_SY300_QL70_FMwebp_.jpg");left:50px;top:20px;}
+    50%{background-image: url("https://m.media-amazon.com/images/I/41EIIrMLwLL._SX300_SY300_QL70_FMwebp_.jpg");left:30px;top:40px;}
+    75%{background-image: url("https://m.media-amazon.com/images/I/81p9MQ1eWJL._AC_UF894,1000_QL80_.jpg");left:60px;top:10px;}
+    
+}
+h1{
+
+    width:auto;
+    height:50px;
+    text-decoration:inherit;
+    color:red;
+    animation:header1 5s  linear infinite;    
+}
+@keyframes header1{
+    0%{opacity:0.5;color:green;}
+    20%{opacity:0.7;color:black;}
+    40%{opacity:0.8;color:palevioletred;}
+    60%{opacity:0.10;color:maroon;}
+    80%{opacity:0.9;color:darkred;}
+    100%{opacity:0.6;color:darkslateblue;}
+}
+header{
+    background-color: purple;
+    height:50px;
+}
+
+
